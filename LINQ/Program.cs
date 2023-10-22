@@ -1,3 +1,6 @@
 ﻿using LINQ;
+using LINQ.SecondDay;
 
-Queries.Run();
+//Queries.Run();
+
+SeconDayQueries.Run();
