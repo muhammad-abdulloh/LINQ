@@ -13,6 +13,7 @@
         public string UniversityFaculty { get; set; }
         public int Course { get; set; }
 
+
         public static List<Student> GetAllStudents()
         {
             List<Student> students = new List<Student>()
